@@ -1,0 +1,33 @@
+body {
+font-family: Arial;
+background:#0f172a;
+color:white;
+text-align:center;
+margin:0;
+}
+
+header {
+padding:60px;
+background:#020617;
+}
+
+.btn {
+background:#22c55e;
+padding:12px 20px;
+border-radius:8px;
+cursor:pointer;
+}
+
+section {
+padding:40px;
+}
+
+ul {
+list-style:none;
+padding:0;
+}
+
+footer {
+padding:20px;
+background:black;
+}
